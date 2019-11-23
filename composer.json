@@ -9,9 +9,9 @@
     }
   ],
   "keywords": [
-    "tree",
-    "PHP列表数据转树型结构",
-    "树型"
+    "easyswoole",
+    "fast",
+    "model"
   ],
   "require": {
     "php": "^7.1",
